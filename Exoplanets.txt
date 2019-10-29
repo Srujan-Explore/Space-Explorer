@@ -1,0 +1,4 @@
+welcome to the Space Explorer page
+Available exoplanets
+kepler 452b by kepler telescope
+pluto dwarf planet
